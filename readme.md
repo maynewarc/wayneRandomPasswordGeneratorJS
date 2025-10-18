@@ -1,0 +1,1 @@
+This is a random password generator program I learned from BroCode. I made a few changes, like adding a button, and the password length being user defined.
